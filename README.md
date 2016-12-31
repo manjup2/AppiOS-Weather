@@ -5,8 +5,6 @@ This is a sample project of weather apps with the current temp and a forecast of
 
 UI inspired by VP color theme! ;)
 
-
-
  
 ![](http://www.hostingpics.net/viewer.php?id=382844SimulatorScreenShotDec31201635904AM.png)
 ![](http://www.hostingpics.net/viewer.php?id=655629SimulatorScreenShotDec31201635910AM.png)
