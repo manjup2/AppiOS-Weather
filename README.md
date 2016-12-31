@@ -3,7 +3,7 @@ This is a sample project of weather apps with the current temp and a forecast of
 
 ![](http://www.lespetitsbilingues.com/wp-content/uploads/2015/03/logo_Vente-Privee_H_RVB-1024x186.png)
  
-![Screenshot 1]
-(http://www.hostingpics.net/viewer.php?id=382844SimulatorScreenShotDec31201635904AM.png)
-![Screenshot ]
-(http://www.hostingpics.net/viewer.php?id=655629SimulatorScreenShotDec31201635910AM.png)
+![]
+(http://www.semmache.com/screenshot1.png)
+![]
+(http://www.semmache.com/screenshot2.png)
